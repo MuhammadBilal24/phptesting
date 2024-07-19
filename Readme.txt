@@ -13,4 +13,9 @@
 -> Settings : 1- Hide or Show the pages ,
                2- Edit the content of backend ,
                3- can restore the database tables.
+-> Database file named: phptesting is attached.
+-> email: testing.admin@test.co 
+   password: 123
+-> employee email: testing_employee02@test.co
+   password: 123
                    
